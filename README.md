@@ -17,6 +17,8 @@ Go to this website below to compile and deploy the smart contact in the blockcha
 
 https://remix.ethereum.org/
 Then compile the smart contract
-Then deploy the MedicalRecord contract in the blockchain with the “Publish to IPFS” option 
+Then deploy the MedicalRecord contract in the blockchain with the “Publish to IPFS” option.
+
 After deploying the contract , copy the publish link of IPFS. Open the IPFS url it on the browser and it will automatically open the IPFS desktop application. 
+
 Then check the below of the Remix compiler to check the traction details
